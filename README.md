@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm the VP of Engineering at [SmileID](https://www.usesmileid.com), where I work on ML-powered APIs for identity verification. In the last two years, Smile has helped over 100,000,000 people gain access to financial services. Before SmileID, I co-founded and was the CTO of [Arthena](https://arthena.com) and was a co-founder of [Matroid](https://matroid.com).
+I'm the VP of Engineering at [SmileID](https://www.usesmileid.com), where I work on ML-powered APIs for identity verification. In the last two years, Smile has helped over 150,000,000 people gain access to financial services. Before SmileID, I co-founded and was the CTO of [Arthena](https://arthena.com) and was a co-founder of [Matroid](https://matroid.com).
 
 I have over 10 years of experience in software engineering and machine learning, and I'm passionate about leveraging technology to solve real-world problems.
 
