@@ -2,30 +2,29 @@
 
 ## About Me
 
-I'm the VP of Engineering at [SmileID](https://www.usesmileid.com), where I work on ML-powered APIs for identity verification. In the last two years, Smile has helped over 150,000,000 people gain access to financial services. Before SmileID, I co-founded and was the CTO of [Arthena](https://arthena.com) and was a co-founder of [Matroid](https://matroid.com).
+I'm the co-founder and CTO of [Promptfoo](https://github.com/promptfoo/promptfoo), where we're building open-source tools to find and fix vulnerabilities in LLMs. We recently completed a seed round from a16z, and we're actively growing our team.
 
-I have over 10 years of experience in software engineering and machine learning, and I'm passionate about leveraging technology to solve real-world problems.
+Previously, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of ML-powered APIs for identity verification. During my time there, we scaled our platform to perform over 160 million verifications, helping millions gain access to essential financial services. Before SmileID, I co-founded and was the CTO of [Arthena](https://arthena.com) and also co-founded [Matroid](https://matroid.com).
 
-## Current Side Projects
+With over 12 years of experience in software engineering and machine learning, I'm passionate about leveraging technology to solve real-world problems.
 
+## Current Projects
+
+- [Promptfoo](https://github.com/promptfoo/promptfoo): An open-source command-line tool for LLM evaluation. We're hiring and would love to hear from engineers and AI enthusiasts who are interested in joining our journey.
 - My [personal website](https://github.com/mldangelo/personal-site), which has been forked nearly 1000 times.
-- Developing [promptfoo](https://github.com/promptfoo/promptfoo), an open-source command-line tool for LLM evaluation.
 
 ## Interests and Expertise
 
 - Machine Learning and AI
 - Prompt Engineering
-- AI Safety
+- AI Safety and Ethics
 - Software Engineering
 - Photography
 
-## Contact
+## Get in Touch
+
+I'm always open to discussions, collaborations, and new opportunities. Whether you're interested in contributing to Promptfoo, exploring potential partnerships, or just want to chat about machine learning and AI safety, feel free to reach out.
 
 - Email: [michael@mldangelo.com](mailto:michael@mldangelo.com)
 - GitHub: [mldangelo](https://github.com/mldangelo)
-
-## Additional Information
-
-- Open to collaborations on ML, AI safety, and prompt engineering projects.
-- Actively seeking contributors for promptfoo.
-- Accepting resumes for potential opportunities at SmileID. Feel free to email me your resume if you're interested in working with us.
+- LinkedIn: [Michael D'Angelo](https://www.linkedin.com/in/michaelldangelo/)
