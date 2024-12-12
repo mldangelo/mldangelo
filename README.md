@@ -2,29 +2,29 @@
 
 ## About Me
 
-I'm the co-founder and CTO of [Promptfoo](https://github.com/promptfoo/promptfoo), where we're building open-source tools to find and fix vulnerabilities in LLMs. We recently completed a seed round from a16z, and we're actively growing our team.
+I'm the co-founder and CTO of [Promptfoo](https://github.com/promptfoo/promptfoo), where we're building open-source tools to help organizations evaluate and secure their LLM applications. We're backed by a16z and are actively expanding our team to tackle the growing challenges in AI safety.
 
-Previously, I was the VP of Engineering at [SmileID](https://www.usesmileid.com), where I led the development of ML-powered APIs for identity verification. During my time there, we scaled our platform to perform over 160 million verifications, helping millions gain access to essential financial services. Before SmileID, I co-founded and was the CTO of [Arthena](https://arthena.com) and also co-founded [Matroid](https://matroid.com).
+Previously, as VP of Engineering at [SmileID](https://www.usesmileid.com), I led the development of ML-powered identity verification APIs that processed over 180 million verifications, enabling financial inclusion across emerging markets. Before SmileId, I co-founded [Arthena](https://arthena.com) (as CTO) and [Matroid](https://matroid.com).
 
-With over 12 years of experience in software engineering and machine learning, I'm passionate about leveraging technology to solve real-world problems.
+With 12+ years in software engineering and machine learning, I'm driven by the potential of technology to solve complex global challenges, particularly in AI safety and accessibility.
 
 ## Current Projects
 
-- [Promptfoo](https://github.com/promptfoo/promptfoo): An open-source command-line tool for LLM evaluation. We're hiring and would love to hear from engineers and AI enthusiasts who are interested in joining our journey.
-- My [personal website](https://github.com/mldangelo/personal-site), which has been forked nearly 1000 times.
+- Leading [Promptfoo](https://github.com/promptfoo/promptfoo): Our open-source platform helps teams evaluate, test, and secure their LLM applications. We're hiring talented engineers and AI researchers passionate about building safer AI systems.
+- Maintaining my [personal website](https://github.com/mldangelo/personal-site): An open-source project with > 1000 forks. 
 
-## Interests and Expertise
+## Areas of Expertise
 
-- Machine Learning and AI
-- Prompt Engineering
-- AI Safety and Ethics
-- Software Engineering
-- Photography
+- 🤖 Machine Learning & AI Systems
+- 🔒 AI Safety & Security
+- 💻 Software Architecture & Engineering
+- 🎯 Prompt Engineering
+- 📸 Photography
 
-## Get in Touch
+## Let's Connect
 
-I'm always open to discussions, collaborations, and new opportunities. Whether you're interested in contributing to Promptfoo, exploring potential partnerships, or just want to chat about machine learning and AI safety, feel free to reach out.
+Feel free to reach out:
 
-- Email: [michael@mldangelo.com](mailto:michael@mldangelo.com)
-- GitHub: [mldangelo](https://github.com/mldangelo)
-- LinkedIn: [Michael D'Angelo](https://www.linkedin.com/in/michaelldangelo/)
+📧 [michael@mldangelo.com](mailto:michael@mldangelo.com)
+🔗 [GitHub](https://github.com/mldangelo)
+💼 [LinkedIn](https://www.linkedin.com/in/michaelldangelo/)
