@@ -1,30 +1,25 @@
-# Michael D'Angelo
+# Hey, I'm Michael
 
-## About Me
+I'm building [Promptfoo](https://github.com/promptfoo/promptfoo), an open-source tool for LLM security and evaluation. We help teams red-team their AI systems and catch vulnerabilities before they ship. 200K+ developers use it.
 
-I'm the co-founder and CTO of [Promptfoo](https://github.com/promptfoo/promptfoo), where we're building open-source tools to help organizations evaluate and secure their LLM applications. We're backed by a16z and are actively expanding our team to tackle the growing challenges in AI safety.
-
-Previously, as VP of Engineering at [SmileID](https://www.usesmileid.com), I led the development of ML-powered identity verification APIs that processed over 180 million verifications, enabling financial inclusion across emerging markets. Before SmileId, I co-founded [Arthena](https://arthena.com) (as CTO) and [Matroid](https://matroid.com).
-
-With 12+ years in software engineering and machine learning, I'm driven by the potential of technology to solve complex global challenges, particularly in AI safety and accessibility.
+Before this, I was VP of Engineering at [Smile ID](https://usesmileid.com) (identity verification across Africa), and co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com). Stanford ICME grad, YC alum.
 
 ## Current Projects
 
-- Leading [Promptfoo](https://github.com/promptfoo/promptfoo): Our open-source platform helps teams evaluate, test, and secure their LLM applications. We're hiring talented engineers and AI researchers passionate about building safer AI systems.
-- Maintaining my [personal website](https://github.com/mldangelo/personal-site): An open-source project with > 1000 forks. 
+- **[Promptfoo](https://github.com/promptfoo/promptfoo)** - LLM red-teaming, evals, and security
+- **[Personal Site](https://github.com/mldangelo/personal-site)** - Open-source portfolio template (1000+ forks)
 
-## Areas of Expertise
+## Interests
 
-- 🤖 Machine Learning & AI Systems
-- 🔒 AI Safety & Security
-- 💻 Software Architecture & Engineering
-- 🎯 Prompt Engineering
-- 📸 Photography
+- AI agents and multi-agent systems
+- LLM security and jailbreaks
+- Evaluation and observability
+- Scaling ML infrastructure
 
-## Let's Connect
+## Get in Touch
 
-Feel free to reach out:
+We're hiring — [join us at Promptfoo](https://www.promptfoo.dev/careers) if you're into LLM security.
 
-📧 [michael@mldangelo.com](mailto:michael@mldangelo.com)
-🔗 [GitHub](https://github.com/mldangelo)
-💼 [LinkedIn](https://www.linkedin.com/in/michaelldangelo/)
+PRs and issues welcome. Open to speaking.
+
+[Website](https://mldangelo.com) · [LinkedIn](https://linkedin.com/in/michaelldangelo) · [X](https://x.com/dangelosaurus) · [Email](mailto:michael@mldangelo.com)
