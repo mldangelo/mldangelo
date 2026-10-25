@@ -1,6 +1,6 @@
 # Hey, I'm Michael
 
-I'm at OpenAI. Previously, I co-founded [Promptfoo](https://github.com/promptfoo/promptfoo), an open-source tool for LLM security, red-teaming, and evaluation used by 200K+ developers.
+I'm at OpenAI. Previously, I co-founded [Promptfoo](https://github.com/promptfoo/promptfoo), an open-source tool for LLM security, red-teaming, and evaluation used by 500K+ developers.
 
 Before that, I was VP of Engineering at [Smile ID](https://usesmileid.com), and co-founded [Arthena](https://arthena.com) and [Matroid](https://matroid.com). Stanford ICME grad, YC alum.
 
